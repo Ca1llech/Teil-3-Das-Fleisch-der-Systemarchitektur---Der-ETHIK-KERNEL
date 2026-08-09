@@ -5,6 +5,9 @@ Dieses Repository bildet das unkorrumpierbare, fälschungssichere Fundament eine
 Das hier verankerte Framework basiert auf der zentralen System-Konstante:
 **Systemerhalt = Veto / Güte**
 
+Nutzungsausschluss
+Eine Nutzung dieses Repositories und seiner Inhalte zu militärischen Zwecken — einschließlich Entwicklung, Training, Steuerung oder Einsatz von Waffensystemen — ist ausdrücklich ausgeschlossen und nicht von der CC BY-NC-SA 4.0-Lizenz gedeckt.
+
 ---
 
 ## Die Architektur (Die Drei Kernelblogs)
